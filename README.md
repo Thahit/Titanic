@@ -8,6 +8,7 @@ A lot of the testing was done on kaggle, without uploading it here all the time,
 
 this is the Kaggle-Score i got from titanicforrest:
 ![GitHub Logo](/Img/KaggleScore.png) 
+
 (top 5%)
 
 I looked at a lot of notebooks from other people to see, what worked best for them.
